@@ -6,7 +6,7 @@
 
 ### How to install
 **Windows**
-I have no idea
+- I have no idea
 
 **macOS**
 - Go to your Applications folder
