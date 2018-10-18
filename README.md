@@ -5,10 +5,10 @@
 
 
 ### How to install
-*Windows*
+**Windows**
 I have no idea
 
-*macOS*
+**macOS**
 - Go to your Applications folder
 - Right clic on FileZilla & select "Show package content".
 - Go into Contents / SharedSupport / resources
